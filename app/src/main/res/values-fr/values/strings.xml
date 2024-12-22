@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity -->
+    <string name="app_name">Taxi App</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="Fare">Fare: 0.00 DH</string>
+    <string name="Time">Time: 00:00</string>
+    <string name="Distance">Distance: 0.00 km</string>
+    <string name="select_language">english</string>
+    <string name="change_language">change_language</string>
+
+
+</resources>
